@@ -87,7 +87,7 @@ While operational challenges such as cancellations exist, the platform demonstra
 ---
 
 ## 👩‍💻 Authors
-**Samaha Maree Alhaddad**  
+**SAMAHA MAREE ALHADDAD*  
 **AHAD OMAR ALFARSI**  
 **NOFA JAMAL ALSHARIF**  
 
